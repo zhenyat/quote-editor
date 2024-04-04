@@ -10,6 +10,7 @@ RSpec.describe "quotes/index", type: :view do
         name: "Name"
       )
     ])
+
   end
 
   it "renders a list of quotes" do
